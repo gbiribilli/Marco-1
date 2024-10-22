@@ -161,7 +161,7 @@
     <Image Include="C:\Users\guibi\OneDrive\Imagens\sim.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\main.c" />
+    <ClCompile Include="..\main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
